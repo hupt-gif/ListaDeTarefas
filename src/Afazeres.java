@@ -47,9 +47,6 @@ public class Afazeres {
                     for (String tarefa : tarefas) {
                         System.out.println(tarefa);
                     }
-                /* for(int i =0; i < tarefas.size(); i++){
-                    System.out.println(tarefas.get(i));
-                }*/
                     break;
                 case 3:
                     System.out.println("Digite o índice da tarefa que deseja marcar como concluída (de 0 a " + (tarefas.size() - 1) + "): ");
