@@ -40,7 +40,7 @@ Ele foi desenvolvido com o objetivo de praticar conceitos de programação, como
 1. Certifique-se de ter o [Java](https://www.java.com/pt-BR/) instalado no seu ambiente.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone https://github.com/hupt-gif/ListaDeTarefas.git
 3. Navegue até o diretório do projeto:
    cd ListaDeTarefas
 4. Compile o programa:
