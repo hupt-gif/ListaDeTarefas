@@ -21,10 +21,10 @@ public class Afazeres {
             System.out.println("Selecione uma opção: ");
             System.out.println("1- Adicionar tarefas ");
             System.out.println("2- Visualizar a lista");
-            System.out.println("3- Atualizar tarefas ");
+            System.out.println("3- Concluir tarefas ");
             System.out.println("4- Deletar uma tarefa");
             System.out.println("5- Sair");
-            System.out.println("---------------------");
+            System.out.println("---------------------\n");
 
             while (!scan.hasNextInt()) {  // valida entrada de opção
                 System.out.println("Opção inválida, por favor digite um número: ");
